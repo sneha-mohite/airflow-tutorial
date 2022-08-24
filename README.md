@@ -1,4 +1,4 @@
-# Chapter 1: Getting Started
+# Airflow Tutorial
 Run the following command to deploy Airflow
 ```
 docker-compose up  
